@@ -8,7 +8,7 @@ DISK v1.0   Copyright (c) Zhang Weidong, 1999-2000   NO:1999-0701
 ```
 
 源码只有一份：`Disk.asm`，约 2900 行，未改动地保存下来。这是 Fun 语言作者
-（一了 / Wisdom ZHANG）学生时代的早期作品。
+（张卫东，笔名一了，Wisdom ZHANG）学生时代的早期作品。
 
 ---
 
@@ -88,7 +88,8 @@ reading and writing raw disk sectors: MBR, boot record, both FATs, root
 directory and the data area, with side-by-side hex and text editing.
 
 The whole thing is one file, `Disk.asm`, about 2900 lines, preserved unchanged.
-An early work by the author of the Fun programming language (一了 / Wisdom ZHANG).
+An early work by the author of the Fun programming language (张卫东 / Wisdom
+ZHANG, pen name 一了).
 
 ### What it does
 
